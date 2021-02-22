@@ -20,26 +20,26 @@ https://cafe.naver.com/moopung/57250
 ## 미리보기
 
 * 공통
-![](works/output/type1/logo_hardkernel_b.png)
-![](works/output/type1/recovery_b.png)
-![](works/output/type1/no_sdcard.png)
-![](works/output/type1/system_error.png)
+![](works/output/png/type1/logo_hardkernel_b.png)
+![](works/output/png/type1/recovery_b.png)
+![](works/output/png/type1/no_sdcard.png)
+![](works/output/png/type1/system_error.png)
 
 
 * TYPE 1
 
-![](works/output/type1/battery_0_b.png)
-![](works/output/type1/battery_4_b.png)
+![](works/output/png/type1/battery_0_b.png)
+![](works/output/png/type1/battery_4_b.png)
 
 
 * TYPE 2
-![](works/output/type2/battery_0_b.png)
-![](works/output/type2/battery_4_b.png)
+![](works/output/png/type2/battery_0_b.png)
+![](works/output/png/type2/battery_4_b.png)
 
 
 * TYPE 3
-![](works/output/type3/battery_0_b.png)
-![](works/output/type3/battery_4_b.png)
+![](works/output/png/type3/battery_0_b.png)
+![](works/output/png/type3/battery_4_b.png)
 
 ## 적용방법 
 
