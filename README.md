@@ -27,7 +27,7 @@ https://cafe.naver.com/moopung/57250
 
 ![하드커널로고](works/output/png/type1/logo_hardkernel_b.png)
 ![리커버리화면](works/output/png/type1/recovery_b.png)
-![SD카드없음](works/output/png/type1/no_sdcard_b.png)
+![SD카드없음](works/output/png/type1/no_sdcard_b.png) 
 ![시스템에러](works/output/png/type1/system_error_b.png)
 
 
