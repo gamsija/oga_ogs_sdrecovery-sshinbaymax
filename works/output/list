@@ -1,0 +1,23 @@
+./ogs $1 recovery
+./ogs $1 battery_fail
+./ogs $1 logo_hardkernel
+./ogs $1 no_sdcard
+./ogs $1 battery_2
+./ogs $1 system_error
+./ogs $1 battery_0
+./ogs $1 battery_4
+./ogs $1 low_battery
+./ogs $1 battery_1
+./ogs $1 battery_3
+
+./oga $1 recovery
+./oga $1 battery_fail
+./oga $1 logo_hardkernel
+./oga $1 no_sdcard
+./oga $1 battery_2
+./oga $1 system_error
+./oga $1 battery_0
+./oga $1 battery_4
+./oga $1 low_battery
+./oga $1 battery_1
+./oga $1 battery_3
