@@ -1,0 +1,24 @@
+.
+./no_sdcard copy.bmp
+./logo_hardkernel copy.bmp
+./battery_0_b copy.bmp
+./battery_fail copy.bmp
+./recovery_b copy.bmp
+./logo_hardkernel_b copy.bmp
+./system_error_b copy.bmp
+./battery_2_b copy.bmp
+./battery_0 copy.bmp
+./battery_1 copy.bmp
+./battery_4_b copy.bmp
+./low_battery_b copy.bmp
+./battery_4 copy.bmp
+./low_battery copy.bmp
+./list
+./battery_fail_b copy.bmp
+./system_error copy.bmp
+./battery_1_b copy.bmp
+./battery_3 copy.bmp
+./battery_2 copy.bmp
+./no_sdcard_b copy.bmp
+./battery_3_b copy.bmp
+./recovery copy.bmp

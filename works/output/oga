@@ -2,7 +2,7 @@
 #mkdir output/$1
 
 echo "convert $1/$2.png -resize 480x320\! -quality 100   -matte -background none -rotate 270 output/$1/$2.bmp"
-convert $1/$2_b.png -crop 640x480+107+0 output/$1/$2.bmp
-convert output/$1/$2.bmp -resize 480x320\! -quality 100 output/$1/$2.bmp
-convert output/$1/$2.bmp -matte -background none -rotate 270 output/$1/$2.bmp
+convert $1/$2.png -crop 640x480+107+0 output/$1/$3.bmp
+convert output/$1/$3.bmp -resize 480x320\! -quality 100 output/$1/$3.bmp
+convert output/$1/$3.bmp -depth 8 -type palette -matte -background none -rotate 270 output/$1/$3.bmp
 

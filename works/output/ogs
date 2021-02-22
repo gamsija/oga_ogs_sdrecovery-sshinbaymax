@@ -1,6 +1,7 @@
 #mkdir output
 #mkdir output/$1
 
-echo "convert $1/$2_b.png  -matte -background none -rotate 270 output/$1/$2_b.bmp"
-convert $1/$2_b.png  -matte -background none -rotate 270 output/$1/$2_b.bmp
+echo "convert $1/$2.png  -matte -background none -rotate 270 output/$1/$2.bmp"
+#convert $1/$2.png  -depth 8 -type truecolor -matte -background none -rotate 270 output/$1/$2.bmp
+convert $1/$2.png   -matte -background none -rotate 270 -alpha deactivate output/$1/$2.bmp
 
