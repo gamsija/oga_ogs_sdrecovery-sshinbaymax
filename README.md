@@ -21,7 +21,7 @@ https://cafe.naver.com/moopung/57250
 
 * 적용화면 
 
-![업데이트중](works/IMG_4640.HEIC)
+![업데이트중](works/IMG_4640.png)
 
 * 공통
 
