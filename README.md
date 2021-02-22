@@ -19,27 +19,34 @@ https://cafe.naver.com/moopung/57250
 
 ## 미리보기
 
+* 적용화면 
+
+![업데이트중](works/IMG_4640.HEIC)
+
 * 공통
-![](works/output/png/type1/logo_hardkernel_b.png)
-![](works/output/png/type1/recovery_b.png)
-![](works/output/png/type1/no_sdcard.png)
-![](works/output/png/type1/system_error.png)
+
+![하드커널로고](works/output/png/type1/logo_hardkernel_b.png)
+![리커버리화면](works/output/png/type1/recovery_b.png)
+![SD카드없음](works/output/png/type1/no_sdcard.png)
+![시스템에러](works/output/png/type1/system_error.png)
 
 
 * TYPE 1
 
-![](works/output/png/type1/battery_0_b.png)
-![](works/output/png/type1/battery_4_b.png)
+![밧데리0](works/output/png/type1/battery_0_b.png)
+![밧데리3](works/output/png/type1/battery_4_b.png)
 
 
 * TYPE 2
-![](works/output/png/type2/battery_0_b.png)
-![](works/output/png/type2/battery_4_b.png)
+
+![밧데리0](works/output/png/type2/battery_0_b.png)
+![밧데리3](works/output/png/type2/battery_4_b.png)
 
 
 * TYPE 3
-![](works/output/png/type3/battery_0_b.png)
-![](works/output/png/type3/battery_4_b.png)
+
+![밧데리0](works/output/png/type3/battery_0_b.png)
+![밧데리3](works/output/png/type3/battery_4_b.png)
 
 ## 적용방법 
 
